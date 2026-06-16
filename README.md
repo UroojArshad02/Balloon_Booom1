@@ -1,1 +1,1 @@
-# Software-engineering
+# This project is developed for the Game Programming subject. The game is called Balloon Boom and is created using the Unity Engine. In this game, players click the balloon that matches the color shown on the screen. The project helps demonstrate basic game development concepts and interactive gameplay in Unity
